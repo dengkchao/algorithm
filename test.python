@@ -1,0 +1,6 @@
+#test python3 grammer
+price = 250
+taxRatio = 0.175
+totalAmoumt = price * taxRatio
+
+print(totalAmoumt)
